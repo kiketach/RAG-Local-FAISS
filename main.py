@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 
-# Cargar variables de entorno
+# Cargar .env
 load_dotenv()
 
 # Configurar la API key
