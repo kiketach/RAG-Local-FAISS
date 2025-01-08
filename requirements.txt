@@ -1,0 +1,6 @@
+openai
+faiss-cpu
+numpy
+pandas
+python-dotenv
+pyodbc

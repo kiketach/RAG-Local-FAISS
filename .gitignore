@@ -1,0 +1,7 @@
+# Ignorar archivos de entorno virtual
+venv/
+.env/
+
+# Ignorar archivos de datos generados
+data/hallazgos.csv
+data/index_file.index
